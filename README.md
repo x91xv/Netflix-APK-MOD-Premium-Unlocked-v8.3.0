@@ -5,7 +5,7 @@
   <a href="#overview">Downloads</a> 
 </p>
   
-  <img alt="Preview" width="524" alt="Hero image" src="https://user-images.githubusercontent.com/81586729/137359693-748308a3-6574-4be3-a7f7-bb9dcd55e599.png"/>
+  <img alt="Center" width="524" alt="Hero image" src="https://user-images.githubusercontent.com/81586729/137359693-748308a3-6574-4be3-a7f7-bb9dcd55e599.png"/>
   <br/>
 
 ---
